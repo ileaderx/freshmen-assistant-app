@@ -24,7 +24,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 function SignUp(){
     return (
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-          <Text>Details Screen</Text>
+          <Text>Details Screen </Text>
         </View>
       );
 }
